@@ -1,4 +1,4 @@
-# Python Calculator 🧮
+# Python Calculator 
 
 A simple graphical calculator built using Python and Tkinter.
 
